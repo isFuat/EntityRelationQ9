@@ -1,7 +1,7 @@
 # EntityRelationQ9
 
 
-<p>An application that represents An employee can belong to one deparment,<br /> deparments can join any meeting and can
+<p>An application that represents an employee can belong to one deparment,<br /> deparments can join any meeting and can
 also join meeting more than one.</p>
 
 
